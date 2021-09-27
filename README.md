@@ -4,7 +4,7 @@ In recent years the GeNN ecosystem has expanded rapidly with a Python wrapper, P
 In this software showcase we will give a brief overview of GeNN and then walk through the development of an insect mushroom body model capable of classifying MNIST digits. The aim of this session is to allow attendants to get a flavour of the capabilities of GeNN, of the user experience and, in principle, enable them to start using it for their own work.
 
 ## Video
-* The video accompanying this tutorial is available at https://youtu.be/e9gHXuNDw8Q?t=5
+* The video accompanying this tutorial is available on [YouTube](https://youtu.be/e9gHXuNDw8Q?t=5)
 
 ## Installation
 * Checkout/download [master branch of GeNN](https://github.com/genn-team/genn)
